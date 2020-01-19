@@ -6,7 +6,7 @@ app.use(async ctx => {
   ctx.body = {
     name:'zx',
     sex:'male',
-    age:19
+    age:18
   };
 })
 
